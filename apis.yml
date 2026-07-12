@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://docs.api.bible
 common:
+  - type: DomainSecurity
+    url: security/the-bible-domain-security.yml
   - type: Website
     url: https://docs.api.bible
   - type: PublicAPIsListing
