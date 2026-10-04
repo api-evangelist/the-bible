@@ -39,7 +39,6 @@ apis:
   - name: The Bible
     description: "Everything you need from the Bible in one discoverable place"
     humanURL: https://docs.api.bible
-    baseURL: https://docs.api.bible
     tags:
       - Books
     properties:
